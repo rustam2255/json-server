@@ -1,0 +1,43 @@
+{
+  "players": [
+    {
+      "id": "f912ad38-5fa8-4540-a1ab-3493e16fa6ba",
+      "name": "Mohammad Salah",
+      "country": "Egypt",
+      "continent": "Africa"
+    },
+    {
+      "id": "8ae3fde6-2fa5-46c0-b3c9-81e68185282a",
+      "name": "Rustamjon",
+      "country": "Uzbekistan",
+      "continent": "Europe"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "label": "All",
+      "classes": " from-black to-slate-500  rounded-l-md"
+    },
+    {
+      "id": "europe",
+      "label": "Europe",
+      "classes": " from-blue-500 to-blue-700"
+    },
+    {
+      "id": "asia",
+      "label": "Asia",
+      "classes": "from-green-500 to-green-700"
+    },
+    {
+      "id": "africa",
+      "label": "Africa",
+      "classes": "from-yellow-500 to-yellow-700"
+    },
+    {
+      "id": "america",
+      "label": "America",
+      "classes": "from-red-500 to-red-700 rounded-r-md"
+    }
+  ]
+}
